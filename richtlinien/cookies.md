@@ -12,15 +12,22 @@ Nossandra verwendet hauptsächlich Cookies, die von der Domain [nossandra.com](n
 | Statistiken | Nossandra verwendet Cookies des Analysetools Google Analytics, um Statistiken über den Besuch des Nutzers auf der Website zu erheben. Dabei werden jedoch keine Informationen erhoben, die einzelne Nutzer für Nossandra persönlich identifizierbar machen. |
 | Werbung | Nossandra ermöglicht Dritten durch Verwendung von Cookies, Werbeanzeigen für Nutzer, ansprechender und für Publisher und Werbetreibende, wertvoller zu gestalten. Mithilfe solcher Cookies werden zum Beispiel Ihre neuesten Suchanfragen, Ihre bisherigen Interaktionen mit den Anzeigen eines Werbetreibenden oder den Suchergebnissen und Ihre Besuche auf der Website eines Werbetreibenden erfasst. Auf diese Weise kann für Sie individuell zugeschnittene Werbung angezeigt werden. |
 
-Diese Informationen werden für einen begrenzten Zeitraum gespeichert: je nach Art der Cookies zwischen 6 und 13 Monaten.
+Diese Informationen werden für einen begrenzten Zeitraum gespeichert: je nach Art der Cookies zwischen 6 und 13 Monaten. Cookies, die Nossandra zu Analysezwecken nutzt, werden nur mit Ihrer Zustimmung aktiviert.
 
-Cookies, die Nossandra zu Analysezwecken nutzt, werden nur mit Ihrer Zustimmung aktiviert.
-
+### Cookies für Einsellungen
 | Name | Dienst | Zweck | Art des Cookies | Vorhaltedauer |
 | --- | --- | --- | --- | --- |
-| \_icl_current_language | WPML | Einstellungen | Erstanbietercookie | 1 Tag |
-| wordpress_ | WordPress | Einstellungen | Erstanbietercookie | 3 Monate |
-| wordpress_sec_ | WordPress | Einstellungen | Erstanbietercookie | 15 Tage |
-| wp-settings | WordPress | Einstellungen | Erstanbietercookie | beständig |
-| wp-settings-time | WordPress | Einstellungen | Erstanbietercookie | 1 Jahr |
-| tk_ai | WooCommerce | Einstellungen | Erstanbietercookie | wird nach Verlassen des Browsers gelöscht |
+| \_icl_current_language | WPML | Einstellungen | Beständiges Erstanbietercookie | 1 Tag |
+| wordpress_ | WordPress | Einstellungen | Beständiges Erstanbietercookie | 3 Monate |
+| wordpress_sec_ | WordPress | Einstellungen | Beständiges Erstanbietercookie | 15 Tage |
+| wp-settings | WordPress | Einstellungen | Beständiges Erstanbietercookie | 1 Jahr |
+| wp-settings-time | WordPress | Einstellungen | Beständiges Erstanbietercookie | 1 Jahr |
+| tk_ai | WooCommerce | Einstellungen | Erstanbieter-Sitzungscookie | wird nach Verlassen des Browsers gelöscht |
+
+### Cookies für Statistiken
+| Name | Dienst | Zweck | Art des Cookies | Vorhaltedauer |
+| --- | --- | --- | --- | --- |
+
+### Cookies für Werbung
+| Name | Dienst | Zweck | Art des Cookies | Vorhaltedauer |
+| --- | --- | --- | --- | --- |
