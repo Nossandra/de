@@ -18,13 +18,9 @@ Cookies, die Nossandra zu Analysezwecken nutzt, werden nur mit Ihrer Zustimmung 
 
 | Name | Dienst | Zweck | Art des Cookies | Vorhaltedauer |
 | --- | --- | --- | --- | --- |
-| \_icl_current_language | WPML | Einstellungen | Beständiges Erstanbietercookie | 1 day |
-| wordpress_ | WordPress | Einstellungen | Beständiges Erstanbietercookie | 3 Monate |
-| \_fbp | Facebook | Einstellungen | Beständiges Erstanbietercookie | 3 Monate |
-| \_fbp | WPML | Einstellungen | Beständiges Erstanbietercookie | 3 Monate |
-| \_fbp | Facebook | Einstellungen | Beständiges Erstanbietercookie | 3 Monate |
-| \_fbp | Facebook | Einstellungen | Beständiges Erstanbietercookie | 3 Monate |
-
-| \_fbp | Facebook | Werbung | Beständiges Erstanbietercookie | 3 Monate |
-
-| \_fbp | Facebook | Werbung | Beständiges Erstanbietercookie | 3 Monate |
+| \_icl_current_language | WPML | Einstellungen | Erstanbietercookie | 1 Tag |
+| wordpress_ | WordPress | Einstellungen | Erstanbietercookie | 3 Monate |
+| wordpress_sec_ | WordPress | Einstellungen | Erstanbietercookie | 15 Tage |
+| wp-settings | WordPress | Einstellungen | Erstanbietercookie | beständig |
+| wp-settings-time | WordPress | Einstellungen | Erstanbietercookie | 1 Jahr |
+| tk_ai | WooCommerce | Einstellungen | Erstanbietercookie | wird nach Verlassen des Browsers gelöscht |
