@@ -1,1 +1,1 @@
-# Cookie Richtlinie
+# Cookies Richtlinie
