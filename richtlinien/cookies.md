@@ -15,3 +15,16 @@ Nossandra verwendet hauptsächlich Cookies, die von der Domain [nossandra.com](n
 Diese Informationen werden für einen begrenzten Zeitraum gespeichert: je nach Art der Cookies zwischen 6 und 13 Monaten.
 
 Cookies, die Nossandra zu Analysezwecken nutzt, werden nur mit Ihrer Zustimmung aktiviert.
+
+| Name | Dienst | Zweck | Art des Cookies | Vorhaltedauer |
+| --- | --- | --- | --- | --- |
+| \_icl_current_language | WPML | Einstellungen | Beständiges Erstanbietercookie | 1 day |
+| wordpress_ | WordPress | Einstellungen | Beständiges Erstanbietercookie | 3 Monate |
+| \_fbp | Facebook | Einstellungen | Beständiges Erstanbietercookie | 3 Monate |
+| \_fbp | WPML | Einstellungen | Beständiges Erstanbietercookie | 3 Monate |
+| \_fbp | Facebook | Einstellungen | Beständiges Erstanbietercookie | 3 Monate |
+| \_fbp | Facebook | Einstellungen | Beständiges Erstanbietercookie | 3 Monate |
+
+| \_fbp | Facebook | Werbung | Beständiges Erstanbietercookie | 3 Monate |
+
+| \_fbp | Facebook | Werbung | Beständiges Erstanbietercookie | 3 Monate |
